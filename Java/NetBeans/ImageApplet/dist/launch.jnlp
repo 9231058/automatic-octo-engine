@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:." href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>ImageApplet</title>
+        <vendor>Parham Alvani</vendor>
+        <homepage href=""/>
+        <description>ImageApplet</description>
+        <description kind="short">ImageApplet</description>
+    <offline-allowed/>
+</information>
+    <update check="background"/>
+    <resources>
+        <j2se version="1.7+"/>
+        <jar href="ImageApplet.jar" main="true"/>
+    </resources>
+    <applet-desc height="500" main-class="imageapplet.ImageApplet" name="ImageApplet" width="500">
+    </applet-desc>
+</jnlp>

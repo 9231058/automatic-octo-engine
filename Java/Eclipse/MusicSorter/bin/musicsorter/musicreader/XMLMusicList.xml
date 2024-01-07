@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MusicList>
+	<Track>
+		<Name>
+			Hi
+		</Name>
+		<Album>
+			Hi Album
+		</Album>
+		<Artrist>
+			Shahin Najafi
+		</Artrist>
+		<PlayCount>
+			1
+		</PlayCount>
+	</Track>
+</MusicList>

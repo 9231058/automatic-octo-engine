@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please remmber element & attribute name is case sensitive-->
+<tee>
+	<executor>
+		<schedule type="daily" time="20:34:15" days="Sunday,Tuesday,Friday" />
+	</executor>
+	<tasks>
+		<base-package>com.mycompany.app</base-package>
+		<task id="task1" class="FirsTaskClass" method="run" dependsOn="task3" />
+	</tasks>
+</tee>

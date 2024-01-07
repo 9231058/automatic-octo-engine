@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" onKeyPressed="#handleKeyPressed" onTouchMoved="#handleTouchMoved" prefHeight="274.0" prefWidth="410.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="testfx.FXMLTestController">
+    <children>
+        <Button fx:id="button" layoutX="125.0" layoutY="91.0" onAction="#handleButtonAction" text="Click Me!" />
+        <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+        <TextField fx:id="textField" layoutX="14.24609375" layoutY="14.0" text="Fuck U" />
+    </children>
+</AnchorPane>

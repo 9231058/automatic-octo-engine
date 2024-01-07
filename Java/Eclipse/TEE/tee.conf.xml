@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--Please pay attention to file syntax ... it's IMPORTANT-->
+<properties>
+	<entry key="Marshaller">tee.marshaller.xmlmarshaller.XMLMarshaller</entry>
+	<entry key="TasksXMLPath">tee.tasks.xml</entry>
+</properties>
